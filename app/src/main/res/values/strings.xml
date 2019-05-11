@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="UserHint">Digite seu usuário</string>
+    <string name="PassHint">Digite sua senha</string>
+    <string name="B1text">Entrar</string>
+    <string name="B2text">Novo</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="UserHint">Enter Username</string>
+    <string name="PassHint">Enter Password</string>
+    <string name="B1text">LogIn</string>
+    <string name="B2text">Register</string>
+</resources>
